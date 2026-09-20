@@ -1,3 +1,3 @@
-# Conflito controlado
+# Conflito controlado      
 
-Este guia apresenta fundamentos de Git para estudantes iniciantes.
+Este guia apresenta fundamentos de Git e GitHub para estudantes iniciantes.
